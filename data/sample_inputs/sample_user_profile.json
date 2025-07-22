@@ -1,0 +1,54 @@
+{
+  "personal_info": {
+    "full_name": "Ramesh Kumar",
+    "age": "35",
+    "gender": "Male",
+    "preferred_language": "English",
+    "aadhaar_number": "1234 5678 9012",
+    "phone_number": "9876543210",
+    "marital_status": "Married",
+    "voter_id": "KAR1234567"
+  },
+  "household_location": {
+    "village_name": "Davangere Village",
+    "district": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577001",
+    "house_type": "Semi-Pucca",
+    "electricity_connection": "Yes",
+    "number_of_dependents": "4"
+  },
+  "occupation_income": {
+    "primary_occupation": "Farmer",
+    "secondary_income_sources": "Dairy farming",
+    "monthly_income": "15000",
+    "monthly_expenses": "10000",
+    "seasonal_variation": "Yes"
+  },
+  "financial_details": {
+    "bank_account_status": "Yes",
+    "bank_name": "Karnataka Bank",
+    "existing_loans": "Agriculture loan of ₹20,000",
+    "repayment_history": "Good - no missed payments",
+    "savings_per_month": "3000",
+    "group_membership": "Yes - Farmers Cooperative Society",
+    "past_loan_amounts": "₹20,000 in 2022"
+  },
+  "land_property": {
+    "owns_land": "Yes",
+    "land_area": "2 acres 15 guntas",
+    "land_type": "Dry land with bore well",
+    "patta_or_katha_number": "Survey No. 123/2A",
+    "property_location": "Davangere Village, Davangere District"
+  },
+  "digital_literacy": {
+    "owns_smartphone": "Yes",
+    "knows_how_to_use_apps": "Basic knowledge",
+    "preferred_mode_of_communication": "WhatsApp voice messages",
+    "internet_availability": "Yes"
+  },
+  "additional_notes": {
+    "user_notes": "Wants loan for crop cultivation and purchasing seeds",
+    "agent_observations": "Reliable farmer with consistent income, active in local cooperative"
+  }
+}
