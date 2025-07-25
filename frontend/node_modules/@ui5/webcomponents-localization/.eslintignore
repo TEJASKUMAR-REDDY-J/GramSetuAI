@@ -1,0 +1,6 @@
+dist
+lib
+overlay
+package-scripts.js
+.eslintrc.cjs
+src/generated

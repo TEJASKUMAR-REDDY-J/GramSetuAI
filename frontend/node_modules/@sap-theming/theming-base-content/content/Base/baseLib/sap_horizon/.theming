@@ -1,0 +1,159 @@
+{
+	"sEntity": "Theme",
+	"sId": "sap_horizon",
+	"sLabel": "SAP Morning Horizon",
+	"sDescription": "The SAP Horizon themes are recommended as basis for custom themes for Horizon.\nSAP Morning Horizon provides a color scheme suitable for normal working conditions.",
+	"sHelpLink": "https://experience.sap.com/fiori-design-web/morning-horizon/",
+	"sVendor": "SAP",
+	"oExtends": "Base.baseLib.baseTheme",
+	"sTextDirections": "LTR,RTL",
+	"sFallbackThemeId": "sap_fiori_3",
+	"sType": "STANDARD",
+	"sThemability": "PUBLIC",
+	"aTags": [
+		"Fiori_3",
+		"LightColorScheme"
+	],
+	"sReleaseStage": "GENERAL_AVAILABILITY",
+	"sReleaseDate": "2022-04-19T00:00:00Z",
+	"aBadgeParameters": [
+		{
+			"Id": "sapBrandColor",
+			"CssValue": "#0070f2",
+			"Label": "Brand Color",
+			"Tags": "Quick,Base,Color,Mobile"
+		},
+		{
+			"Id": "sapHighlightColor",
+			"CssValue": "#0064d9",
+			"Label": "Highlight Color",
+			"Tags": "Quick,Base,Content,Color"
+		},
+		{
+			"Id": "sapBaseColor",
+			"CssValue": "#fff",
+			"Label": "Base Color",
+			"Tags": "Quick,Base,Color,Mobile"
+		},
+		{
+			"Id": "sapShellColor",
+			"CssValue": "#fff",
+			"Label": "Shell Header Color",
+			"Tags": "Quick,Base,Shell,Color,Mobile"
+		},
+		{
+			"Id": "sapBackgroundColor",
+			"CssValue": "#f5f6f7",
+			"Label": "Background Color",
+			"Tags": "Quick,Base,Color,Mobile"
+		},
+		{
+			"Id": "sapTextColor",
+			"CssValue": "#131e29",
+			"Label": "Text Color",
+			"Tags": "Quick,Base,Content,Color,Font,Mobile"
+		},
+		{
+			"Id": "sapLinkColor",
+			"CssValue": "#0064d9",
+			"Label": "Link Color",
+			"Tags": "Quick,Base,Content,Color,Font,Link"
+		},
+		{
+			"Id": "sapContent_Selected_TextColor",
+			"CssValue": "#0064d9",
+			"Label": "Selected Text Color",
+			"Tags": "Base,Content,Color,Font"
+		},
+		{
+			"Id": "sapContent_Shadow0",
+			"CssValue": "0 0 0.125rem 0 rgba(34,53,72,0.2), 0 0.125rem 0.25rem 0 rgba(34,53,72,0.2)",
+			"Label": "Shadow Level 0",
+			"Tags": "Base,Content"
+		},
+		{
+			"Id": "sapField_Background",
+			"CssValue": "#eff1f2",
+			"Label": "Field Background Color",
+			"Tags": "Base,Field,Color"
+		},
+		{
+			"Id": "sapField_BorderColor",
+			"CssValue": "#556b81",
+			"Label": "Field Border Color",
+			"Tags": "Base,Field,Color"
+		},
+		{
+			"Id": "sapShell_Background",
+			"CssValue": "#eff1f2",
+			"Label": "Shell Background Color",
+			"Tags": "Base,Shell,Color"
+		},
+		{
+			"Id": "sapShell_TextColor",
+			"CssValue": "#131e29",
+			"Label": "Shell Text Color",
+			"Tags": "Base,Shell,Color,Font,Mobile"
+		},
+		{
+			"Id": "sapShell_InteractiveTextColor",
+			"CssValue": "#131e29",
+			"Label": "Shell Interactive Text Color",
+			"Tags": "Base,Shell,Color,Font"
+		},
+		{
+			"Id": "sapShell_GroupTitleTextColor",
+			"CssValue": "#131e29",
+			"Label": "Shell Group Title Text Color",
+			"Tags": "Base,Shell,Color,Font"
+		},
+		{
+			"Id": "sapShell_Shadow",
+			"CssValue": "0 0.125rem 0.125rem 0 rgba(34,53,72,0.15), inset 0 -0.0625rem 0 0 rgba(34,53,72,0.2)",
+			"Label": "Shell Shadow",
+			"Tags": "Base,Shell"
+		},
+		{
+			"Id": "sapShell_Navigation_Background",
+			"CssValue": "#fff",
+			"Label": "Shell Navigation Area Background",
+			"Tags": "Base,Shell,Color"
+		},
+		{
+			"Id": "sapShell_Navigation_TextColor",
+			"CssValue": "#131e29",
+			"Label": "Shell Navigation Text Color",
+			"Tags": "Base,Shell,Color,Font"
+		},
+		{
+			"Id": "sapTile_Background",
+			"CssValue": "#fff",
+			"Label": "Tile Background Color",
+			"Tags": "Base,Tile,Color"
+		},
+		{
+			"Id": "sapTile_BorderColor",
+			"CssValue": "transparent",
+			"Label": "Tile Border Color",
+			"Tags": "Base,Tile,Color"
+		},
+		{
+			"Id": "sapTile_BorderCornerRadius",
+			"CssValue": "1rem",
+			"Label": "Tile Border Corner Radius",
+			"Tags": "Base,Tile,Dimension"
+		},
+		{
+			"Id": "sapTile_TextColor",
+			"CssValue": "#556b82",
+			"Label": "Tile Text Color",
+			"Tags": "Base,Tile,Color,Font"
+		},
+		{
+			"Id": "sapTile_TitleTextColor",
+			"CssValue": "#131e29",
+			"Label": "Tile Title Text Color",
+			"Tags": "Base,Tile,Color,Font"
+		}
+	]
+}
