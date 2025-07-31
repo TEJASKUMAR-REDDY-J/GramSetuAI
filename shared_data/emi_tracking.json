@@ -1,0 +1,68 @@
+{
+  "APP_2284adf0_20250731": {
+    "loan_id": "APP_2284adf0_20250731",
+    "borrower_id": "9999999999",
+    "mfi_id": "MFI_20250731_143718",
+    "principal_amount": 45000,
+    "emi_amount": 3998.2,
+    "tenure_months": 12,
+    "interest_rate": 12.0,
+    "disbursement_date": "2025-08-01",
+    "payments": [],
+    "outstanding_balance": 45000,
+    "next_due_date": "2025-08-31T00:00:00",
+    "status": "active"
+  },
+  "APP_3ea740b3_20250731": {
+    "loan_id": "APP_3ea740b3_20250731",
+    "borrower_id": "9876543999",
+    "mfi_id": "TEST_COMPLETE_MFI",
+    "principal_amount": 45000,
+    "emi_amount": 3998.2,
+    "tenure_months": 12,
+    "interest_rate": 12.0,
+    "disbursement_date": "2025-08-01",
+    "payments": [],
+    "outstanding_balance": 45000,
+    "next_due_date": "2025-08-31T00:00:00",
+    "status": "active"
+  },
+  "APP_eaaf6b38_20250731": {
+    "loan_id": "APP_eaaf6b38_20250731",
+    "borrower_id": "9999888777",
+    "mfi_id": "MFI_20250731_143718",
+    "principal_amount": 70000,
+    "emi_amount": 6203.05,
+    "tenure_months": 12,
+    "interest_rate": 11.5,
+    "disbursement_date": "2025-08-01",
+    "payments": [
+      {
+        "payment_id": "PAY_f9c6b5cc",
+        "payment_date": "2025-07-31T21:08:52.125576",
+        "emi_amount": 6203.05,
+        "principal_component": 5532.22,
+        "interest_component": 670.83,
+        "outstanding_before": 70000,
+        "outstanding_after": 64467.78
+      }
+    ],
+    "outstanding_balance": 64467.78,
+    "next_due_date": "2025-08-30T21:08:52.125576",
+    "status": "active"
+  },
+  "APP_6906f056_20250731": {
+    "loan_id": "APP_6906f056_20250731",
+    "borrower_id": "1234567890",
+    "mfi_id": "MFI_20250731_144505",
+    "principal_amount": 50000,
+    "emi_amount": 4442.44,
+    "tenure_months": 12,
+    "interest_rate": 12,
+    "disbursement_date": "2025-07-31T21:54:55.915818",
+    "payments": [],
+    "outstanding_balance": 50000,
+    "next_due_date": "2025-08-30T21:54:55.915818",
+    "status": "active"
+  }
+}

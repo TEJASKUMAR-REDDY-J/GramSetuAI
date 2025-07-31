@@ -1,0 +1,62 @@
+{
+  "MFI_20250731_212420": {
+    "basic_details": {
+      "mfi_name": "bank of bangalore",
+      "registration_number": "981629831",
+      "entity_type": "NBFC-MFI",
+      "year_establishment": 2022,
+      "head_office_address": "HSR layout, bengaluru, karnataka, 560080",
+      "operating_states": "karnataka",
+      "contact_person": {
+        "name": "tejas",
+        "role": "manager",
+        "email": "tejas@gmai;.com",
+        "phone": "1234567890",
+        "whatsapp": "1234567890"
+      }
+    },
+    "operational_metrics": {
+      "active_borrowers": 0,
+      "loan_portfolio_size": 0,
+      "average_loan_size": 0,
+      "minimum_loan_amount": 10000,
+      "maximum_loan_amount": 100000000,
+      "loan_products": "Agriculture, personal loan, services, cooperative society, vehicle loan, housing loan etc.",
+      "repayment_frequencies": "monthly"
+    },
+    "team_staff": {
+      "total_field_officers": 3,
+      "branches_centers": 1,
+      "ops_manager_contacts": "tharun, abhay, adithya",
+      "training_process": "1 month training and desk job"
+    },
+    "technology": {
+      "loan_management_software": "excel",
+      "digital_lending_tools": "mobile apps, websites",
+      "data_format": "CSV",
+      "integration_preferences": "manual"
+    },
+    "financial_compliance": {
+      "funding_sources": "SEBI, RBI",
+      "interest_rates": "8%-19%",
+      "portfolio_at_risk": 0,
+      "credit_bureau_integration": "Yes",
+      "latest_audit_date": "March 2025"
+    },
+    "target_segments": {
+      "borrower_type_focus": "SHGs, Cooperative society, earning individuals, farmers, weavers, etc.",
+      "sector_focus": "Agriculture, services, livestock",
+      "loan_tenure_range": "6-36 months",
+      "geographies_covered": "karnataka"
+    },
+    "goals_challenges": {
+      "top_challenges": "loan defaults",
+      "vision_next_2_years": "scale and expansion",
+      "support_needed": "credit scoring, risk assessment"
+    },
+    "mfi_id": "MFI_20250731_212420",
+    "registration_date": "2025-07-31T21:24:20.480478",
+    "last_updated": "2025-07-31T21:24:20.480478",
+    "status": "active"
+  }
+}

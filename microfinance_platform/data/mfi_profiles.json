@@ -1,0 +1,32 @@
+{
+  "MFI_20250731_143718": {
+    "basic_details": {
+      "mfi_name": "Test Rural Bank",
+      "registration_number": "TEST123",
+      "entity_type": "NBFC-MFI",
+      "year_establishment": 2020,
+      "head_office_address": "123 Test Street, Bangalore",
+      "operating_states": "Karnataka, Tamil Nadu",
+      "contact_person_name": "Raj Kumar",
+      "contact_person_role": "Manager",
+      "contact_email": "raj@testrural.com",
+      "contact_phone": "9876543210",
+      "contact_whatsapp": "9876543210"
+    },
+    "operational_metrics": {
+      "active_borrowers": 500,
+      "loan_portfolio_size": 5000000,
+      "average_loan_size": 50000,
+      "loan_products": "Business loans, Agriculture loans",
+      "repayment_frequencies": "Monthly"
+    },
+    "financial_compliance": {
+      "interest_rates": "12-15% per annum",
+      "portfolio_at_risk": 2.5
+    },
+    "mfi_id": "MFI_20250731_143718",
+    "registration_date": "2025-07-31T14:37:18.670556",
+    "last_updated": "2025-07-31T14:37:18.670556",
+    "status": "active"
+  }
+}

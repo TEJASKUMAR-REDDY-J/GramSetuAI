@@ -1,0 +1,1799 @@
+{
+  "field_officers": [
+    {
+      "fo_id": "FO_001",
+      "name": "Field Officer 1",
+      "phone": "+91-9876543001",
+      "zone": "Zone A",
+      "experience_years": 6,
+      "languages": [
+        "English",
+        "Kannada"
+      ],
+      "assigned_villages": [
+        "Village_1_1",
+        "Village_1_2",
+        "Village_1_3"
+      ],
+      "assigned_borrowers": 125,
+      "current_workload": 123,
+      "performance_rating": 4.7,
+      "status": "Active"
+    },
+    {
+      "fo_id": "FO_002",
+      "name": "Field Officer 2",
+      "phone": "+91-9876543002",
+      "zone": "Zone A",
+      "experience_years": 4,
+      "languages": [
+        "English",
+        "Kannada"
+      ],
+      "assigned_villages": [
+        "Village_2_1",
+        "Village_2_2",
+        "Village_2_3",
+        "Village_2_4",
+        "Village_2_5",
+        "Village_2_6"
+      ],
+      "assigned_borrowers": 96,
+      "current_workload": 75,
+      "performance_rating": 3.9,
+      "status": "Active"
+    },
+    {
+      "fo_id": "FO_003",
+      "name": "Field Officer 3",
+      "phone": "+91-9876543003",
+      "zone": "Zone A",
+      "experience_years": 3,
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "assigned_villages": [
+        "Village_3_1",
+        "Village_3_2",
+        "Village_3_3",
+        "Village_3_4",
+        "Village_3_5"
+      ],
+      "assigned_borrowers": 87,
+      "current_workload": 122,
+      "performance_rating": 3.3,
+      "status": "Active"
+    },
+    {
+      "fo_id": "FO_004",
+      "name": "Field Officer 4",
+      "phone": "+91-9876543004",
+      "zone": "Zone A",
+      "experience_years": 3,
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "assigned_villages": [
+        "Village_4_1",
+        "Village_4_2",
+        "Village_4_3",
+        "Village_4_4"
+      ],
+      "assigned_borrowers": 122,
+      "current_workload": 80,
+      "performance_rating": 3.2,
+      "status": "Active"
+    },
+    {
+      "fo_id": "FO_005",
+      "name": "Field Officer 5",
+      "phone": "+91-9876543005",
+      "zone": "Zone A",
+      "experience_years": 4,
+      "languages": [
+        "English",
+        "Kannada"
+      ],
+      "assigned_villages": [
+        "Village_5_1",
+        "Village_5_2",
+        "Village_5_3"
+      ],
+      "assigned_borrowers": 98,
+      "current_workload": 105,
+      "performance_rating": 4.4,
+      "status": "Active"
+    },
+    {
+      "fo_id": "FO_006",
+      "name": "Field Officer 6",
+      "phone": "+91-9876543006",
+      "zone": "Zone B",
+      "experience_years": 4,
+      "languages": [
+        "English",
+        "Kannada"
+      ],
+      "assigned_villages": [
+        "Village_6_1",
+        "Village_6_2",
+        "Village_6_3",
+        "Village_6_4",
+        "Village_6_5",
+        "Village_6_6"
+      ],
+      "assigned_borrowers": 141,
+      "current_workload": 96,
+      "performance_rating": 3.3,
+      "status": "Active"
+    },
+    {
+      "fo_id": "FO_007",
+      "name": "Field Officer 7",
+      "phone": "+91-9876543007",
+      "zone": "Zone B",
+      "experience_years": 3,
+      "languages": [
+        "English",
+        "Kannada"
+      ],
+      "assigned_villages": [
+        "Village_7_1",
+        "Village_7_2"
+      ],
+      "assigned_borrowers": 113,
+      "current_workload": 115,
+      "performance_rating": 3.6,
+      "status": "Active"
+    },
+    {
+      "fo_id": "FO_008",
+      "name": "Field Officer 8",
+      "phone": "+91-9876543008",
+      "zone": "Zone B",
+      "experience_years": 8,
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "assigned_villages": [
+        "Village_8_1",
+        "Village_8_2",
+        "Village_8_3",
+        "Village_8_4",
+        "Village_8_5",
+        "Village_8_6"
+      ],
+      "assigned_borrowers": 146,
+      "current_workload": 122,
+      "performance_rating": 4.6,
+      "status": "Active"
+    },
+    {
+      "fo_id": "FO_009",
+      "name": "Field Officer 9",
+      "phone": "+91-9876543009",
+      "zone": "Zone B",
+      "experience_years": 8,
+      "languages": [
+        "English",
+        "Kannada"
+      ],
+      "assigned_villages": [
+        "Village_9_1",
+        "Village_9_2"
+      ],
+      "assigned_borrowers": 147,
+      "current_workload": 89,
+      "performance_rating": 3.6,
+      "status": "Active"
+    },
+    {
+      "fo_id": "FO_010",
+      "name": "Field Officer 10",
+      "phone": "+91-9876543010",
+      "zone": "Zone B",
+      "experience_years": 5,
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "assigned_villages": [
+        "Village_10_1",
+        "Village_10_2",
+        "Village_10_3",
+        "Village_10_4",
+        "Village_10_5"
+      ],
+      "assigned_borrowers": 93,
+      "current_workload": 132,
+      "performance_rating": 4.3,
+      "status": "Active"
+    },
+    {
+      "fo_id": "FO_011",
+      "name": "Field Officer 11",
+      "phone": "+91-9876543011",
+      "zone": "Zone C",
+      "experience_years": 4,
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "assigned_villages": [
+        "Village_11_1",
+        "Village_11_2",
+        "Village_11_3",
+        "Village_11_4",
+        "Village_11_5"
+      ],
+      "assigned_borrowers": 87,
+      "current_workload": 62,
+      "performance_rating": 3.4,
+      "status": "Active"
+    },
+    {
+      "fo_id": "FO_012",
+      "name": "Field Officer 12",
+      "phone": "+91-9876543012",
+      "zone": "Zone C",
+      "experience_years": 5,
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "assigned_villages": [
+        "Village_12_1",
+        "Village_12_2"
+      ],
+      "assigned_borrowers": 143,
+      "current_workload": 103,
+      "performance_rating": 4.7,
+      "status": "Active"
+    },
+    {
+      "fo_id": "FO_013",
+      "name": "Field Officer 13",
+      "phone": "+91-9876543013",
+      "zone": "Zone C",
+      "experience_years": 5,
+      "languages": [
+        "English",
+        "Kannada"
+      ],
+      "assigned_villages": [
+        "Village_13_1",
+        "Village_13_2"
+      ],
+      "assigned_borrowers": 142,
+      "current_workload": 119,
+      "performance_rating": 4.8,
+      "status": "Active"
+    },
+    {
+      "fo_id": "FO_014",
+      "name": "Field Officer 14",
+      "phone": "+91-9876543014",
+      "zone": "Zone C",
+      "experience_years": 4,
+      "languages": [
+        "English",
+        "Kannada"
+      ],
+      "assigned_villages": [
+        "Village_14_1",
+        "Village_14_2"
+      ],
+      "assigned_borrowers": 125,
+      "current_workload": 111,
+      "performance_rating": 4.7,
+      "status": "Active"
+    },
+    {
+      "fo_id": "FO_015",
+      "name": "Field Officer 15",
+      "phone": "+91-9876543015",
+      "zone": "Zone C",
+      "experience_years": 7,
+      "languages": [
+        "English",
+        "Kannada"
+      ],
+      "assigned_villages": [
+        "Village_15_1",
+        "Village_15_2",
+        "Village_15_3",
+        "Village_15_4",
+        "Village_15_5"
+      ],
+      "assigned_borrowers": 124,
+      "current_workload": 139,
+      "performance_rating": 3.5,
+      "status": "Active"
+    }
+  ],
+  "visits": [
+    {
+      "visit_id": "V_00001",
+      "fo_id": "FO_007",
+      "borrower_id": "B_5410",
+      "village": "Village_7_2",
+      "visit_date": "2025-07-30T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Completed",
+      "amount_collected": 1960,
+      "issues_reported": [],
+      "travel_time_hours": 1.5,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00002",
+      "fo_id": "FO_013",
+      "borrower_id": "B_8874",
+      "village": "Village_13_2",
+      "visit_date": "2025-07-24T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Completed",
+      "amount_collected": 2756,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 1.3,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00003",
+      "fo_id": "FO_006",
+      "borrower_id": "B_3273",
+      "village": "Village_6_3",
+      "visit_date": "2025-07-05T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Missed",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 0.9,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00004",
+      "fo_id": "FO_008",
+      "borrower_id": "B_5586",
+      "village": "Village_8_5",
+      "visit_date": "2025-07-07T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Missed",
+      "amount_collected": 4782,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 1.0,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00005",
+      "fo_id": "FO_001",
+      "borrower_id": "B_8791",
+      "village": "Village_1_3",
+      "visit_date": "2025-07-22T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Rescheduled",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 0.9,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00006",
+      "fo_id": "FO_005",
+      "borrower_id": "B_8040",
+      "village": "Village_5_1",
+      "visit_date": "2025-07-15T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Missed",
+      "amount_collected": 3643,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 2.7,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00007",
+      "fo_id": "FO_013",
+      "borrower_id": "B_7326",
+      "village": "Village_13_1",
+      "visit_date": "2025-07-07T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Missed",
+      "amount_collected": 1183,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 1.3,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00008",
+      "fo_id": "FO_004",
+      "borrower_id": "B_2528",
+      "village": "Village_4_3",
+      "visit_date": "2025-07-26T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Rescheduled",
+      "amount_collected": 1059,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 1.6,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00009",
+      "fo_id": "FO_001",
+      "borrower_id": "B_7182",
+      "village": "Village_1_1",
+      "visit_date": "2025-07-09T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Missed",
+      "amount_collected": 1904,
+      "issues_reported": [],
+      "travel_time_hours": 3.3,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00010",
+      "fo_id": "FO_003",
+      "borrower_id": "B_2749",
+      "village": "Village_3_1",
+      "visit_date": "2025-07-27T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Pending",
+      "amount_collected": 3449,
+      "issues_reported": [],
+      "travel_time_hours": 3.4,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00011",
+      "fo_id": "FO_009",
+      "borrower_id": "B_9135",
+      "village": "Village_9_1",
+      "visit_date": "2025-07-06T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Rescheduled",
+      "amount_collected": 3212,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 0.8,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00012",
+      "fo_id": "FO_007",
+      "borrower_id": "B_4410",
+      "village": "Village_7_2",
+      "visit_date": "2025-07-12T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Pending",
+      "amount_collected": 0,
+      "issues_reported": [],
+      "travel_time_hours": 3.5,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00013",
+      "fo_id": "FO_009",
+      "borrower_id": "B_4973",
+      "village": "Village_9_2",
+      "visit_date": "2025-07-17T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Completed",
+      "amount_collected": 2215,
+      "issues_reported": [
+        "Payment delay"
+      ],
+      "travel_time_hours": 3.0,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00014",
+      "fo_id": "FO_013",
+      "borrower_id": "B_9920",
+      "village": "Village_13_2",
+      "visit_date": "2025-07-19T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Rescheduled",
+      "amount_collected": 313,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 2.5,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00015",
+      "fo_id": "FO_006",
+      "borrower_id": "B_8576",
+      "village": "Village_6_4",
+      "visit_date": "2025-07-11T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Pending",
+      "amount_collected": 3964,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 1.2,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00016",
+      "fo_id": "FO_001",
+      "borrower_id": "B_2068",
+      "village": "Village_1_2",
+      "visit_date": "2025-07-21T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Rescheduled",
+      "amount_collected": 1763,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 1.5,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00017",
+      "fo_id": "FO_004",
+      "borrower_id": "B_4702",
+      "village": "Village_4_1",
+      "visit_date": "2025-07-07T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Pending",
+      "amount_collected": 1445,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 2.1,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00018",
+      "fo_id": "FO_006",
+      "borrower_id": "B_3468",
+      "village": "Village_6_2",
+      "visit_date": "2025-07-03T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Rescheduled",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 2.3,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00019",
+      "fo_id": "FO_010",
+      "borrower_id": "B_4564",
+      "village": "Village_10_5",
+      "visit_date": "2025-07-05T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Rescheduled",
+      "amount_collected": 3683,
+      "issues_reported": [],
+      "travel_time_hours": 1.9,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00020",
+      "fo_id": "FO_004",
+      "borrower_id": "B_9666",
+      "village": "Village_4_3",
+      "visit_date": "2025-07-11T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Missed",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 2.9,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00021",
+      "fo_id": "FO_010",
+      "borrower_id": "B_6276",
+      "village": "Village_10_2",
+      "visit_date": "2025-07-15T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Rescheduled",
+      "amount_collected": 665,
+      "issues_reported": [],
+      "travel_time_hours": 3.7,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00022",
+      "fo_id": "FO_004",
+      "borrower_id": "B_7159",
+      "village": "Village_4_3",
+      "visit_date": "2025-07-02T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Pending",
+      "amount_collected": 381,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 3.8,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00023",
+      "fo_id": "FO_015",
+      "borrower_id": "B_8175",
+      "village": "Village_15_1",
+      "visit_date": "2025-06-30T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Pending",
+      "amount_collected": 2335,
+      "issues_reported": [],
+      "travel_time_hours": 1.7,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00024",
+      "fo_id": "FO_005",
+      "borrower_id": "B_4288",
+      "village": "Village_5_3",
+      "visit_date": "2025-07-06T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Completed",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Payment delay"
+      ],
+      "travel_time_hours": 1.0,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00025",
+      "fo_id": "FO_009",
+      "borrower_id": "B_8237",
+      "village": "Village_9_2",
+      "visit_date": "2025-07-19T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Completed",
+      "amount_collected": 428,
+      "issues_reported": [
+        "Payment delay"
+      ],
+      "travel_time_hours": 1.1,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00026",
+      "fo_id": "FO_015",
+      "borrower_id": "B_4444",
+      "village": "Village_15_1",
+      "visit_date": "2025-07-30T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Rescheduled",
+      "amount_collected": 1975,
+      "issues_reported": [
+        "Payment delay"
+      ],
+      "travel_time_hours": 0.6,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00027",
+      "fo_id": "FO_007",
+      "borrower_id": "B_1605",
+      "village": "Village_7_1",
+      "visit_date": "2025-07-29T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Missed",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 1.3,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00028",
+      "fo_id": "FO_006",
+      "borrower_id": "B_4110",
+      "village": "Village_6_6",
+      "visit_date": "2025-06-30T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Completed",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 0.9,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00029",
+      "fo_id": "FO_005",
+      "borrower_id": "B_1759",
+      "village": "Village_5_3",
+      "visit_date": "2025-07-04T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Pending",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 1.8,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00030",
+      "fo_id": "FO_003",
+      "borrower_id": "B_2852",
+      "village": "Village_3_2",
+      "visit_date": "2025-07-19T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Rescheduled",
+      "amount_collected": 0,
+      "issues_reported": [],
+      "travel_time_hours": 2.7,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00031",
+      "fo_id": "FO_013",
+      "borrower_id": "B_9077",
+      "village": "Village_13_1",
+      "visit_date": "2025-07-27T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Pending",
+      "amount_collected": 4425,
+      "issues_reported": [],
+      "travel_time_hours": 3.5,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00032",
+      "fo_id": "FO_007",
+      "borrower_id": "B_2005",
+      "village": "Village_7_2",
+      "visit_date": "2025-07-05T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Missed",
+      "amount_collected": 1216,
+      "issues_reported": [],
+      "travel_time_hours": 3.9,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00033",
+      "fo_id": "FO_005",
+      "borrower_id": "B_5648",
+      "village": "Village_5_1",
+      "visit_date": "2025-07-07T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Completed",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 2.0,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00034",
+      "fo_id": "FO_001",
+      "borrower_id": "B_8426",
+      "village": "Village_1_3",
+      "visit_date": "2025-07-29T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Missed",
+      "amount_collected": 0,
+      "issues_reported": [],
+      "travel_time_hours": 3.5,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00035",
+      "fo_id": "FO_006",
+      "borrower_id": "B_7275",
+      "village": "Village_6_5",
+      "visit_date": "2025-07-15T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Pending",
+      "amount_collected": 3474,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 3.4,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00036",
+      "fo_id": "FO_013",
+      "borrower_id": "B_7107",
+      "village": "Village_13_1",
+      "visit_date": "2025-07-19T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Completed",
+      "amount_collected": 711,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 1.3,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00037",
+      "fo_id": "FO_004",
+      "borrower_id": "B_7848",
+      "village": "Village_4_1",
+      "visit_date": "2025-07-02T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Completed",
+      "amount_collected": 1861,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 2.1,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00038",
+      "fo_id": "FO_007",
+      "borrower_id": "B_2120",
+      "village": "Village_7_2",
+      "visit_date": "2025-07-26T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Completed",
+      "amount_collected": 3112,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 0.7,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00039",
+      "fo_id": "FO_001",
+      "borrower_id": "B_4956",
+      "village": "Village_1_1",
+      "visit_date": "2025-07-13T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Completed",
+      "amount_collected": 2194,
+      "issues_reported": [],
+      "travel_time_hours": 3.4,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00040",
+      "fo_id": "FO_006",
+      "borrower_id": "B_6080",
+      "village": "Village_6_2",
+      "visit_date": "2025-07-14T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Missed",
+      "amount_collected": 4969,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 2.4,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00041",
+      "fo_id": "FO_003",
+      "borrower_id": "B_8029",
+      "village": "Village_3_2",
+      "visit_date": "2025-07-15T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Missed",
+      "amount_collected": 1425,
+      "issues_reported": [],
+      "travel_time_hours": 1.6,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00042",
+      "fo_id": "FO_005",
+      "borrower_id": "B_5656",
+      "village": "Village_5_1",
+      "visit_date": "2025-07-21T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Rescheduled",
+      "amount_collected": 548,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 3.7,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00043",
+      "fo_id": "FO_004",
+      "borrower_id": "B_6489",
+      "village": "Village_4_3",
+      "visit_date": "2025-07-07T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Rescheduled",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 0.7,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00044",
+      "fo_id": "FO_006",
+      "borrower_id": "B_6634",
+      "village": "Village_6_6",
+      "visit_date": "2025-07-20T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Completed",
+      "amount_collected": 2162,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 3.5,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00045",
+      "fo_id": "FO_007",
+      "borrower_id": "B_3238",
+      "village": "Village_7_1",
+      "visit_date": "2025-07-15T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Pending",
+      "amount_collected": 2511,
+      "issues_reported": [
+        "Payment delay"
+      ],
+      "travel_time_hours": 2.0,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00046",
+      "fo_id": "FO_006",
+      "borrower_id": "B_3174",
+      "village": "Village_6_1",
+      "visit_date": "2025-07-25T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Completed",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Payment delay"
+      ],
+      "travel_time_hours": 2.7,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00047",
+      "fo_id": "FO_002",
+      "borrower_id": "B_4814",
+      "village": "Village_2_3",
+      "visit_date": "2025-07-07T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Pending",
+      "amount_collected": 3034,
+      "issues_reported": [],
+      "travel_time_hours": 1.2,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00048",
+      "fo_id": "FO_011",
+      "borrower_id": "B_6850",
+      "village": "Village_11_4",
+      "visit_date": "2025-07-29T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Rescheduled",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 4.0,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00049",
+      "fo_id": "FO_008",
+      "borrower_id": "B_9247",
+      "village": "Village_8_2",
+      "visit_date": "2025-07-03T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Pending",
+      "amount_collected": 2700,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 1.2,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00050",
+      "fo_id": "FO_008",
+      "borrower_id": "B_1653",
+      "village": "Village_8_6",
+      "visit_date": "2025-07-22T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Missed",
+      "amount_collected": 277,
+      "issues_reported": [
+        "Payment delay"
+      ],
+      "travel_time_hours": 3.9,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00051",
+      "fo_id": "FO_009",
+      "borrower_id": "B_3023",
+      "village": "Village_9_1",
+      "visit_date": "2025-07-23T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Rescheduled",
+      "amount_collected": 0,
+      "issues_reported": [],
+      "travel_time_hours": 2.9,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00052",
+      "fo_id": "FO_009",
+      "borrower_id": "B_8039",
+      "village": "Village_9_1",
+      "visit_date": "2025-07-13T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Completed",
+      "amount_collected": 3125,
+      "issues_reported": [
+        "Payment delay"
+      ],
+      "travel_time_hours": 2.7,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00053",
+      "fo_id": "FO_012",
+      "borrower_id": "B_1453",
+      "village": "Village_12_2",
+      "visit_date": "2025-07-18T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Rescheduled",
+      "amount_collected": 4991,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 1.0,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00054",
+      "fo_id": "FO_001",
+      "borrower_id": "B_8310",
+      "village": "Village_1_1",
+      "visit_date": "2025-07-19T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Rescheduled",
+      "amount_collected": 1218,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 3.0,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00055",
+      "fo_id": "FO_003",
+      "borrower_id": "B_8363",
+      "village": "Village_3_1",
+      "visit_date": "2025-07-11T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Pending",
+      "amount_collected": 0,
+      "issues_reported": [],
+      "travel_time_hours": 3.3,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00056",
+      "fo_id": "FO_001",
+      "borrower_id": "B_2725",
+      "village": "Village_1_2",
+      "visit_date": "2025-07-27T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Rescheduled",
+      "amount_collected": 4515,
+      "issues_reported": [
+        "Payment delay"
+      ],
+      "travel_time_hours": 4.0,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00057",
+      "fo_id": "FO_013",
+      "borrower_id": "B_7500",
+      "village": "Village_13_2",
+      "visit_date": "2025-07-11T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Pending",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 0.6,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00058",
+      "fo_id": "FO_012",
+      "borrower_id": "B_2652",
+      "village": "Village_12_1",
+      "visit_date": "2025-07-25T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Pending",
+      "amount_collected": 595,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 1.0,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00059",
+      "fo_id": "FO_012",
+      "borrower_id": "B_1523",
+      "village": "Village_12_2",
+      "visit_date": "2025-07-14T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Rescheduled",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 3.3,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00060",
+      "fo_id": "FO_013",
+      "borrower_id": "B_5490",
+      "village": "Village_13_1",
+      "visit_date": "2025-07-19T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Missed",
+      "amount_collected": 1767,
+      "issues_reported": [],
+      "travel_time_hours": 1.5,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00061",
+      "fo_id": "FO_010",
+      "borrower_id": "B_1696",
+      "village": "Village_10_4",
+      "visit_date": "2025-07-16T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Completed",
+      "amount_collected": 0,
+      "issues_reported": [],
+      "travel_time_hours": 3.3,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00062",
+      "fo_id": "FO_010",
+      "borrower_id": "B_7441",
+      "village": "Village_10_2",
+      "visit_date": "2025-07-05T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Missed",
+      "amount_collected": 2847,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 2.9,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00063",
+      "fo_id": "FO_012",
+      "borrower_id": "B_1230",
+      "village": "Village_12_1",
+      "visit_date": "2025-07-08T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Completed",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 1.5,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00064",
+      "fo_id": "FO_011",
+      "borrower_id": "B_9536",
+      "village": "Village_11_5",
+      "visit_date": "2025-07-20T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Pending",
+      "amount_collected": 1543,
+      "issues_reported": [],
+      "travel_time_hours": 0.6,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00065",
+      "fo_id": "FO_002",
+      "borrower_id": "B_1892",
+      "village": "Village_2_3",
+      "visit_date": "2025-07-09T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Missed",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Payment delay"
+      ],
+      "travel_time_hours": 2.3,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00066",
+      "fo_id": "FO_003",
+      "borrower_id": "B_3782",
+      "village": "Village_3_2",
+      "visit_date": "2025-07-29T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Completed",
+      "amount_collected": 4067,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 0.5,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00067",
+      "fo_id": "FO_004",
+      "borrower_id": "B_2664",
+      "village": "Village_4_3",
+      "visit_date": "2025-07-19T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Missed",
+      "amount_collected": 4149,
+      "issues_reported": [],
+      "travel_time_hours": 3.4,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00068",
+      "fo_id": "FO_005",
+      "borrower_id": "B_9664",
+      "village": "Village_5_3",
+      "visit_date": "2025-07-18T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Pending",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 2.2,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00069",
+      "fo_id": "FO_010",
+      "borrower_id": "B_5202",
+      "village": "Village_10_5",
+      "visit_date": "2025-07-29T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Missed",
+      "amount_collected": 2816,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 2.1,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00070",
+      "fo_id": "FO_013",
+      "borrower_id": "B_3420",
+      "village": "Village_13_1",
+      "visit_date": "2025-07-11T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Rescheduled",
+      "amount_collected": 4485,
+      "issues_reported": [],
+      "travel_time_hours": 2.9,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00071",
+      "fo_id": "FO_013",
+      "borrower_id": "B_8124",
+      "village": "Village_13_1",
+      "visit_date": "2025-07-28T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Pending",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 2.6,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00072",
+      "fo_id": "FO_002",
+      "borrower_id": "B_3010",
+      "village": "Village_2_6",
+      "visit_date": "2025-07-04T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Missed",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 1.5,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00073",
+      "fo_id": "FO_007",
+      "borrower_id": "B_7453",
+      "village": "Village_7_1",
+      "visit_date": "2025-07-06T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Completed",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 1.8,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00074",
+      "fo_id": "FO_014",
+      "borrower_id": "B_6258",
+      "village": "Village_14_1",
+      "visit_date": "2025-07-01T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Missed",
+      "amount_collected": 2608,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 1.6,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00075",
+      "fo_id": "FO_015",
+      "borrower_id": "B_4116",
+      "village": "Village_15_4",
+      "visit_date": "2025-07-08T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Completed",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Payment delay"
+      ],
+      "travel_time_hours": 3.8,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00076",
+      "fo_id": "FO_005",
+      "borrower_id": "B_8035",
+      "village": "Village_5_1",
+      "visit_date": "2025-07-25T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Missed",
+      "amount_collected": 693,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 3.1,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00077",
+      "fo_id": "FO_012",
+      "borrower_id": "B_7214",
+      "village": "Village_12_1",
+      "visit_date": "2025-07-16T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Pending",
+      "amount_collected": 1588,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 1.4,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00078",
+      "fo_id": "FO_002",
+      "borrower_id": "B_9182",
+      "village": "Village_2_5",
+      "visit_date": "2025-07-06T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Missed",
+      "amount_collected": 3978,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 3.8,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00079",
+      "fo_id": "FO_006",
+      "borrower_id": "B_1614",
+      "village": "Village_6_2",
+      "visit_date": "2025-07-20T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Completed",
+      "amount_collected": 100,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 2.3,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00080",
+      "fo_id": "FO_009",
+      "borrower_id": "B_9909",
+      "village": "Village_9_2",
+      "visit_date": "2025-07-25T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Rescheduled",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 2.0,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00081",
+      "fo_id": "FO_011",
+      "borrower_id": "B_2328",
+      "village": "Village_11_5",
+      "visit_date": "2025-07-14T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Rescheduled",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 1.1,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00082",
+      "fo_id": "FO_013",
+      "borrower_id": "B_1189",
+      "village": "Village_13_2",
+      "visit_date": "2025-07-23T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Missed",
+      "amount_collected": 616,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 1.8,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00083",
+      "fo_id": "FO_007",
+      "borrower_id": "B_2495",
+      "village": "Village_7_1",
+      "visit_date": "2025-07-21T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Missed",
+      "amount_collected": 707,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 3.7,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00084",
+      "fo_id": "FO_001",
+      "borrower_id": "B_3303",
+      "village": "Village_1_3",
+      "visit_date": "2025-07-20T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Missed",
+      "amount_collected": 4600,
+      "issues_reported": [],
+      "travel_time_hours": 0.7,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00085",
+      "fo_id": "FO_005",
+      "borrower_id": "B_3068",
+      "village": "Village_5_1",
+      "visit_date": "2025-07-24T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Missed",
+      "amount_collected": 4930,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 0.8,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00086",
+      "fo_id": "FO_006",
+      "borrower_id": "B_7466",
+      "village": "Village_6_5",
+      "visit_date": "2025-07-05T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Completed",
+      "amount_collected": 71,
+      "issues_reported": [],
+      "travel_time_hours": 1.9,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00087",
+      "fo_id": "FO_010",
+      "borrower_id": "B_9504",
+      "village": "Village_10_3",
+      "visit_date": "2025-07-20T18:06:54.683423",
+      "visit_type": "Disbursement",
+      "status": "Pending",
+      "amount_collected": 2088,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 0.8,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00088",
+      "fo_id": "FO_010",
+      "borrower_id": "B_3476",
+      "village": "Village_10_5",
+      "visit_date": "2025-07-06T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Missed",
+      "amount_collected": 833,
+      "issues_reported": [
+        "Payment delay"
+      ],
+      "travel_time_hours": 1.6,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00089",
+      "fo_id": "FO_003",
+      "borrower_id": "B_9563",
+      "village": "Village_3_2",
+      "visit_date": "2025-07-06T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Missed",
+      "amount_collected": 4556,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 3.8,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00090",
+      "fo_id": "FO_002",
+      "borrower_id": "B_2143",
+      "village": "Village_2_4",
+      "visit_date": "2025-07-05T18:06:54.683423",
+      "visit_type": "Follow-up",
+      "status": "Rescheduled",
+      "amount_collected": 0,
+      "issues_reported": [],
+      "travel_time_hours": 1.7,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00091",
+      "fo_id": "FO_015",
+      "borrower_id": "B_8443",
+      "village": "Village_15_2",
+      "visit_date": "2025-07-25T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Pending",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Technical issue"
+      ],
+      "travel_time_hours": 1.6,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00092",
+      "fo_id": "FO_004",
+      "borrower_id": "B_3835",
+      "village": "Village_4_4",
+      "visit_date": "2025-07-04T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Pending",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 2.4,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00093",
+      "fo_id": "FO_005",
+      "borrower_id": "B_8030",
+      "village": "Village_5_3",
+      "visit_date": "2025-06-30T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Completed",
+      "amount_collected": 2546,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 3.5,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00094",
+      "fo_id": "FO_002",
+      "borrower_id": "B_2554",
+      "village": "Village_2_4",
+      "visit_date": "2025-07-10T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Completed",
+      "amount_collected": 3647,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 1.6,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00095",
+      "fo_id": "FO_006",
+      "borrower_id": "B_6566",
+      "village": "Village_6_1",
+      "visit_date": "2025-07-26T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Pending",
+      "amount_collected": 2277,
+      "issues_reported": [
+        "Customer unavailable"
+      ],
+      "travel_time_hours": 2.0,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00096",
+      "fo_id": "FO_002",
+      "borrower_id": "B_3313",
+      "village": "Village_2_5",
+      "visit_date": "2025-07-06T18:06:54.683423",
+      "visit_type": "Group Meeting",
+      "status": "Rescheduled",
+      "amount_collected": 0,
+      "issues_reported": [],
+      "travel_time_hours": 3.5,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00097",
+      "fo_id": "FO_003",
+      "borrower_id": "B_4329",
+      "village": "Village_3_4",
+      "visit_date": "2025-07-28T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Missed",
+      "amount_collected": 2616,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 3.3,
+      "zone": "Zone A"
+    },
+    {
+      "visit_id": "V_00098",
+      "fo_id": "FO_015",
+      "borrower_id": "B_1480",
+      "village": "Village_15_2",
+      "visit_date": "2025-07-13T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Pending",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 1.5,
+      "zone": "Zone C"
+    },
+    {
+      "visit_id": "V_00099",
+      "fo_id": "FO_009",
+      "borrower_id": "B_6041",
+      "village": "Village_9_2",
+      "visit_date": "2025-07-26T18:06:54.683423",
+      "visit_type": "Documentation",
+      "status": "Missed",
+      "amount_collected": 0,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 2.2,
+      "zone": "Zone B"
+    },
+    {
+      "visit_id": "V_00100",
+      "fo_id": "FO_008",
+      "borrower_id": "B_8838",
+      "village": "Village_8_4",
+      "visit_date": "2025-07-18T18:06:54.683423",
+      "visit_type": "Collection",
+      "status": "Rescheduled",
+      "amount_collected": 4108,
+      "issues_reported": [
+        "Documentation missing"
+      ],
+      "travel_time_hours": 2.2,
+      "zone": "Zone B"
+    }
+  ],
+  "zones": {
+    "Zone A": {
+      "villages": 15,
+      "borrowers": 450,
+      "avg_distance_km": 25
+    },
+    "Zone B": {
+      "villages": 12,
+      "borrowers": 380,
+      "avg_distance_km": 30
+    },
+    "Zone C": {
+      "villages": 18,
+      "borrowers": 520,
+      "avg_distance_km": 35
+    }
+  },
+  "performance_metrics": {
+    "avg_collections_per_visit": 2850,
+    "avg_visits_per_day": 6.2,
+    "target_monthly_visits": 120,
+    "avg_travel_time": 2.1
+  },
+  "last_updated": "2025-07-30T18:06:54.683423"
+}

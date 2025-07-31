@@ -1,0 +1,108 @@
+{
+  "MFI_20250731_143718": {
+    "name": "Test Rural Bank",
+    "location": "123 Test Street, Bangalore, Karnataka, Tamil Nadu",
+    "contact": "Raj Kumar",
+    "phone": "9876543210",
+    "email": "raj@testrural.com",
+    "interest_rates": "12-15% per annum",
+    "loan_products": [
+      "Business loans",
+      " Agriculture loans"
+    ],
+    "minimum_loan": 5000,
+    "maximum_loan": 100000,
+    "registration_date": "2025-07-31T14:37:18.671767",
+    "status": "active"
+  },
+  "MFI_20250731_144505": {
+    "name": "bank of electronic city",
+    "location": "electronic city, bengaluru, karnataka, 560100, karnataka",
+    "contact": "8162983123",
+    "phone": "9826381293",
+    "email": "kumar@gmail.com",
+    "interest_rates": "9%-19%",
+    "loan_products": [
+      "Agricultural loan",
+      " home loan",
+      " personal loan",
+      " vehicle loan"
+    ],
+    "minimum_loan": 50000,
+    "maximum_loan": 2000000,
+    "registration_date": "2025-07-31T14:45:05.355516",
+    "status": "active"
+  },
+  "MFI_20250731_144727": {
+    "name": "bank of banshankari",
+    "location": "banshankari, bengaluru, karnataka, 560050, karnataka",
+    "contact": "9872384012",
+    "phone": "8736481920",
+    "email": "reddy@gmail.com",
+    "interest_rates": "12%-23%",
+    "loan_products": [
+      "Agricultural loan",
+      " home loan",
+      " personal loan",
+      " vehicle loan"
+    ],
+    "minimum_loan": 50000,
+    "maximum_loan": 10000000,
+    "registration_date": "2025-07-31T14:47:27.049018",
+    "status": "active"
+  },
+  "TEST_MFI_001": {
+    "name": "Test Bank with Loan Limits",
+    "location": "456 Test Avenue, Karnataka, Tamil Nadu",
+    "contact": "Jane Doe",
+    "phone": "9876543211",
+    "email": "jane@testbank.com",
+    "interest_rates": "10-18% per annum",
+    "loan_products": [
+      "Business loans",
+      " Personal loans",
+      " Agriculture loans"
+    ],
+    "minimum_loan": 10000,
+    "maximum_loan": 200000,
+    "registration_date": "2025-07-31T14:58:40.079574",
+    "status": "active"
+  },
+  "TEST_COMPLETE_MFI": {
+    "name": "Complete Test Bank",
+    "location": "789 Complete Street, Test City, Karnataka, Andhra Pradesh",
+    "contact": "Complete Test Manager",
+    "phone": "9876543333",
+    "email": "manager@completetest.com",
+    "interest_rates": "11-16% per annum",
+    "loan_products": [
+      "Business loans",
+      " Personal loans",
+      " Home loans"
+    ],
+    "minimum_loan": 15000,
+    "maximum_loan": 300000,
+    "registration_date": "2025-07-31T15:01:45.869913",
+    "status": "active"
+  },
+  "MFI_20250731_212420": {
+    "name": "bank of bangalore",
+    "location": "HSR layout, bengaluru, karnataka, 560080, karnataka",
+    "contact": "tejas",
+    "phone": "1234567890",
+    "email": "tejas@gmai;.com",
+    "interest_rates": "8%-19%",
+    "loan_products": [
+      "Agriculture",
+      " personal loan",
+      " services",
+      " cooperative society",
+      " vehicle loan",
+      " housing loan etc."
+    ],
+    "minimum_loan": 10000,
+    "maximum_loan": 100000000,
+    "registration_date": "2025-07-31T21:24:20.486024",
+    "status": "active"
+  }
+}

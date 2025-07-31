@@ -1,0 +1,126 @@
+{
+  "government_schemes": [
+    {
+      "scheme_id": "PMMY_2024",
+      "name": "Pradhan Mantri MUDRA Yojana",
+      "type": "Government Scheme",
+      "agency": "MUDRA",
+      "launch_date": "2024-01-01",
+      "validity": "2024-12-31",
+      "target_segment": "Micro enterprises",
+      "loan_amount_range": {
+        "min": 50000,
+        "max": 1000000
+      },
+      "interest_subsidy": "Up to 3% interest subsidy",
+      "eligibility_criteria": [
+        "Non-farm income generating activities",
+        "Business establishment or expansion",
+        "Working capital requirements"
+      ],
+      "documentation": [
+        "Aadhaar Card",
+        "Business Plan",
+        "Income Proof"
+      ],
+      "states_applicable": [
+        "All States"
+      ],
+      "status": "Active",
+      "impact_summary": "Direct lending support for micro enterprises"
+    },
+    {
+      "scheme_id": "SVAMITVA_2024",
+      "name": "SVAMITVA Scheme - Property Cards",
+      "type": "Land Rights Scheme",
+      "agency": "Ministry of Panchayati Raj",
+      "launch_date": "2024-04-01",
+      "validity": "Ongoing",
+      "target_segment": "Rural property owners",
+      "loan_amount_range": {
+        "min": 0,
+        "max": 0
+      },
+      "interest_subsidy": "Property documentation support",
+      "eligibility_criteria": [
+        "Rural residential property owners",
+        "Village within SVAMITVA coverage"
+      ],
+      "documentation": [
+        "Property Survey Records",
+        "Village Revenue Records"
+      ],
+      "states_applicable": [
+        "Karnataka",
+        "Maharashtra",
+        "Haryana",
+        "Uttar Pradesh"
+      ],
+      "status": "Active",
+      "impact_summary": "Property cards can be used as collateral for loans"
+    },
+    {
+      "scheme_id": "PMFBY_2024",
+      "name": "Pradhan Mantri Fasal Bima Yojana",
+      "type": "Insurance Scheme",
+      "agency": "Ministry of Agriculture",
+      "launch_date": "2024-01-01",
+      "validity": "2024-12-31",
+      "target_segment": "Farmers",
+      "loan_amount_range": {
+        "min": 0,
+        "max": 0
+      },
+      "interest_subsidy": "Premium subsidy up to 90%",
+      "eligibility_criteria": [
+        "All farmers (tenant/sharecropper)",
+        "Notified crops in notified areas"
+      ],
+      "documentation": [
+        "Land Records",
+        "Aadhaar Card",
+        "Bank Account Details"
+      ],
+      "states_applicable": [
+        "All States"
+      ],
+      "status": "Active",
+      "impact_summary": "Reduces agricultural loan risk through crop insurance"
+    }
+  ],
+  "regulatory_updates": [
+    {
+      "update_id": "RBI_DIR_2024_03",
+      "title": "Fair Practices Code for NBFC-MFIs",
+      "agency": "RBI",
+      "date": "2024-03-15",
+      "type": "Compliance Directive",
+      "summary": "Updated guidelines for fair lending practices",
+      "key_changes": [
+        "Enhanced borrower grievance mechanism",
+        "Mandatory financial literacy programs",
+        "Transparent pricing disclosure"
+      ],
+      "compliance_deadline": "2024-06-30",
+      "impact_on_mfis": "Medium",
+      "action_required": "Update operational procedures and staff training"
+    },
+    {
+      "update_id": "NABARD_CIR_2024_02",
+      "title": "Digital Lending Guidelines for MFIs",
+      "agency": "NABARD",
+      "date": "2024-02-10",
+      "type": "Operational Guidelines",
+      "summary": "Framework for digital lending operations",
+      "key_changes": [
+        "Digital KYC acceptance",
+        "e-NACH mandate guidelines",
+        "Data privacy requirements"
+      ],
+      "compliance_deadline": "2024-09-30",
+      "impact_on_mfis": "High",
+      "action_required": "Technology upgrade and process digitization"
+    }
+  ],
+  "last_updated": "2025-07-30T18:06:54.368814"
+}
